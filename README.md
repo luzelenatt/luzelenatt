@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p><em>Software Enginner at <a href="http://www.unb.br">Universidad Nacional Mayor de San Marcos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: luzelenatorres](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/luzelenatorres/)
-[![GitHub luzelenatt](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/luzelenatt))
+[![Linkedin: luzelenatorres](https://img.shields.io/badge/-luzelenatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luzelenatorres/)](https://www.linkedin.com/in/luzelenatorres/)
+[![GitHub luzelenatt](https://img.shields.io/github/followers/luzelenatt?label=follow&style=social)](https://github.com/luzelenatt))
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
