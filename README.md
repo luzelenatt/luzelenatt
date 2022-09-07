@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ````bash
-> help --info
-> Currently, I am a student of Software Engineering 👩🏻💻 
-> (Facultad de Ingeniería de Sistema e Informática) at the Universidad Nacional Mayor de San Marcos.
+> 💬 help --info
+> 😄 Currently, I am a student of Software Engineering 👩🏻 
+> 💻 (Facultad de Ingeniería de Sistema e Informática) at the Universidad Nacional Mayor de San Marcos.
 
-> ⭐️ I am very passionate about User Experience Design (Web Interfaces)
-> ⭐️ Software/Information Technology Project Management and Innovation
-> ⭐️ Agile Methodologies
+> ⚡ I am very passionate about User Experience Design (Web Interfaces)
+> 😄 Software/Information Technology Project Management and Innovation
+> ✨ Agile Methodologies
 > ⭐️ Digital Marketing and Advertising
-> ⭐️ Microsoft Office
-> ⭐️ I have an advanced level of English.
+> 💻 Microsoft Office
+> 👯 I have an advanced level of English.
 ````
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people 💬</b> so if you want to say <b>hi, I'll be happy to meet you more! 😄</b> </em>
 
 ---
 
