@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 > 💻 (Facultad de Ingeniería de Sistema e Informática) at the Universidad Nacional Mayor de San Marcos.
 
 > ⚡ I am very passionate about User Experience Design (Web Interfaces)
-> 😄 Software/Information Technology Project Management and Innovation
+> 👨‍💻 Software/Information Technology Project Management and Innovation
 > ✨ Agile Methodologies
 > ⭐️ Digital Marketing and Advertising
 > 💻 Microsoft Office
