@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Luz Elena Torres Talaverano 🙏
+## Social Media
 [![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)]((https://www.linkedin.com/in/luzelenatorres/))
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](luzelenatt24@gmail.com)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 https://carbon.now.sh/ -->
 
 ## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+#### Currently, I am a student of Software Engineering 👩🏻💻 (Faculty of System Engineering and Computer Science) at the Universidad Nacional Mayor de San Marcos. Always curious to learn cutting edge technology. A bit enthusiast towards web development. <br> <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
 <!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
