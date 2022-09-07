@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </em></p>
 
 [![Linkedin: luzelenatorres](https://img.shields.io/badge/-luzelenatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luzelenatorres/)](https://www.linkedin.com/in/luzelenatorres/)
-[![GitHub luzelenatt](https://img.shields.io/github/followers/luzelenatt?label=follow&style=social)](https://github.com/luzelenatt))
+[![GitHub luzelenatt](https://img.shields.io/github/luzelenatt)](https://github.com/luzelenatt))
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
