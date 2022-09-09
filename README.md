@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2> Hi 👋, I'm Luz Elena Torres Talverano! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">Universidad Nacional Mayor de San Marcos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://unmsm.edu.pe/">Universidad Nacional Mayor de San Marcos</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: luzelenatorres](https://img.shields.io/badge/-luzelenatorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luzelenatorres/)](https://www.linkedin.com/in/luzelenatorres/)
